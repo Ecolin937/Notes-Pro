@@ -1,0 +1,8 @@
+{
+  "name": "Notes",
+  "description": "Une application de prise de notes minimaliste et intuitive, inspirée de Google Keep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
