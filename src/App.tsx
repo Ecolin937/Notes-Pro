@@ -112,6 +112,17 @@ export default function App() {
                   />
                 </div>
               </div>
+
+              <div className="flex items-center gap-4">
+                <a 
+                  href="https://calculatrice-pro.vercel.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-4 py-2 bg-green-600 text-white rounded-xl font-bold hover:bg-green-700 transition-all shadow-md active:scale-95 text-sm whitespace-nowrap flex items-center gap-2"
+                >
+                  🖩 Accéder à la calculatrice
+                </a>
+              </div>
             </motion.div>
           ) : (
             <motion.div 
